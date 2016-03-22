@@ -1,1 +1,9 @@
-
+body {
+  background-image("chrome-search://theme/IDR_THEME_NTP_BACKGROUND?pedefpmipcjpkmffibfpbaadkkmmbdbc");
+}
+h1 {
+  color: white;
+}
+h3 {
+  color: white;
+}
